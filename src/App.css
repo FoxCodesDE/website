@@ -20,6 +20,15 @@
   color: white;
 }
 
+.bottom {
+  position: absolute;
+  bottom: 2px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  vertical-align: baseline;
+}
 
 a {
   color: #61dafb;

@@ -32,6 +32,9 @@ function App() {
                         GitLab
                     </a>
                 </div>
+                <div className="bottom">
+                    Da es sich bei dieser Webpräsenz um ein nicht kommerzielles Projekt handelt, sind wir nach §5 TMG nicht verpflichtet ein Impressum zu führen.
+                </div>
             </header>
         </div>
     );
